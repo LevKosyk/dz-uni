@@ -8,3 +8,5 @@
 | limit | 1e3 number(int)|'1e3' string |
 | port |0x1F90 string |  8080 int|
 | komentar | none -| None none |
+
+Більше всього здивувало port - очыкував все, але не 8080

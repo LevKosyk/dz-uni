@@ -1,0 +1,12 @@
+project = "MyApp"
+version = "1.10"
+
+[owner]
+name = "Lev"
+
+[settings]
+theme = "dark"
+notifications = true
+language = "en"
+
+libraries = ["React", "Redux", "Axios"]
