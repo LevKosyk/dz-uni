@@ -25,7 +25,7 @@
 | 2  | Розвʼязаний конфлікт | [pryvitannia.py](praktyka/02-git/pryvitannia.py) |
 | 3  | Сторінка про мене        | [about.html](praktyka/03-rozmitka/about.html)    |
 
-![Пройдені рівні тренажера Git](praktyka/02-git/file:///praktyka/02-git/img.png)
+![Пройдені рівні тренажера Git](praktyka/02-git/img.png)
 
 > git push origin main --force
 
